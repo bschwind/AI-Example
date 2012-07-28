@@ -21,3 +21,7 @@ when the behavior starts, and a method which is called every frame to update the
 The units also pass messages to each other, and their "radio range" can be increased by being inside the radius of
 a radio tower. They alert each other of nearby resources or enemies. Radio towers start off inactive, but units
 can activate them by depositing resources into them.
+
+Controls:
+
+WASD for camera movement, and +/- for zooming. Use the arrow keys to tilt the camera...just because!
