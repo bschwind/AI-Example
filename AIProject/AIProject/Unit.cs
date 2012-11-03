@@ -19,7 +19,7 @@ namespace AIProject
         public float Rotation;
         public Map Map { get; set; }
 
-        private float turnSpeed = 3f;
+        private float turnSpeed = 4f;
         private float moveSpeed = 5f;
         private float viewRadius = 5f; //How far a unit can see
         private float radioRadius = 9f; //How far away a unit can talk to another unit of the same team
